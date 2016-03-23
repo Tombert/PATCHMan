@@ -1,0 +1,34 @@
+{
+  "name": "patchman",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "blessed": "^0.1.81",
+    "request": "^2.69.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tombert/PATCHMan.git"
+  },
+  "keywords": [
+    "patch",
+    "post",
+    "get",
+    "delete",
+    "put",
+    "tombert",
+    "postman",
+    "patchman"
+  ],
+  "author": "Thomas Gebert",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Tombert/PATCHMan/issues"
+  },
+  "homepage": "https://github.com/Tombert/PATCHMan#readme"
+}
